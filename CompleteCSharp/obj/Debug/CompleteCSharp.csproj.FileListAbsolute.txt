@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\CompleteCSharp\bin\Debug\CompleteCSharp.exe.config
+C:\Users\Intel\source\repos\CompleteCSharp\bin\Debug\CompleteCSharp.exe
+C:\Users\Intel\source\repos\CompleteCSharp\bin\Debug\CompleteCSharp.pdb
+C:\Users\Intel\source\repos\CompleteCSharp\obj\Debug\CompleteCSharp.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\CompleteCSharp\obj\Debug\CompleteCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\CompleteCSharp\obj\Debug\CompleteCSharp.exe
+C:\Users\Intel\source\repos\CompleteCSharp\obj\Debug\CompleteCSharp.pdb
